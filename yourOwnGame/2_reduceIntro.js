@@ -5,7 +5,7 @@
 // You'll notice that oftentimes what you're doing with
   //    for loops and each statements is
   //  reducing an entire collection down to a single answer.
-  
+
   // This is such a common pattern that
   //  there's a canonical functional programming tool
   //  called reduce.

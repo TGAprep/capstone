@@ -304,6 +304,6 @@
     //  and turn it into a single, flattened array.
 
   // CARRY ON...
-    // Go ahead and jump to the file called 
+    // Go ahead and jump to the file called
     // '2_reduceIntro.js' in the yourOwnGame folder.
 })();
