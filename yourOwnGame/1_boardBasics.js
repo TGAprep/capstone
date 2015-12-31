@@ -269,7 +269,7 @@
         //  on each squareObj?
 
     // Now try adding gamePieces to a couple of different rows throughout
-      //  the board using this makePiece funcion.
+      //  the board using this makePiece function.
 
       // Go ahead and find all the pieces on the whole board, organized by row.
         // The output should be an array that is filled with nested arrays,
